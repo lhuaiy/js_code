@@ -1,3 +1,7 @@
 sdiofuisa
 dfsfafdsafsd
+<<<<<<< HEAD
 111111111111
+=======
+adsfartoj oadf
+>>>>>>> origin/master
